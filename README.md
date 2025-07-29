@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/7fad0da2-a3f1-4aaf-9ae3-600dfb43dd87
 To get a copy of this project, open your terminal and run:
 
 ```bash
-git clone https://github.com/2Sant0s/Projeto-Livraria.git
+git clone https://github.com/2Sant0s/LibraryManagement.git
 ```
 
 <h2 id="status">🚦 Status</h2>
